@@ -3,7 +3,7 @@
 # FELIPE ALVES --- @felipealvessi 
 <hr>
 
-- 💬 Ask me about ...
+💬 About me ...
 
   ##### I'm Felipe Alves, I'm 27 years old and I'm a resident of São João de Meriti, RJ.
 
