@@ -19,4 +19,4 @@
 ### Você pode entrar em contato comigo por meio do meu [Linkedin](https://www.linkedin.com/in/felipealvessi/), [Personal Page](https://www.felipealvessi.com.br/) e [Twitch.tv](https://www.twitch.tv/felipealvessi)
 
 <hr>
-Made with 💙 by Felipe Alves | @felipealvessi
+Made with 💙 by Felipe Alves | [@felipealvessi](https://www.instagram/felipealvessi/)
