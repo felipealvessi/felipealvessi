@@ -6,17 +6,17 @@
 
 - 🔭 I’m currently working on [Devs do Futuro](https://devsdofuturo.com.br)
 
-- 🌱 I’m currently learning ** Gatsby, GraphQL, TypeScript **
+- 🌱 I’m currently learning **Gatsby, GraphQL, TypeScript**
 
 - 🤝 I’m looking for help with [Devs do Futuro](https://devsdofuturo.com.br)
 
 - 📝 I write information regularly on [Devs do Futuro](https://www.linkedin.com/company/devsdofuturo)
 
-- 💬 Ask me about ** Technology and the Future Devs Project **
+- 💬 Ask me about **Technology and the Future Devs Project**
 
 - 📫 How to reach me **felipealvesinfor@gmail.com**
 
-- ⚡ Fun fact ** Passionate about learning **
+- ⚡ Fun fact **Passionate about learning**
 
 - 💻 Future **Front-end Developer**
 
