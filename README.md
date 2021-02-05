@@ -1,8 +1,6 @@
 <h1 align = "center"> Hi 👋, I'm Felipe Alves </h1>
 <h3 align = "center"> Applications Support Analyst 💻 </h3>
 
-<br>
-<h3 align = "center">Future Front-end Developer 👨‍💻 </h3>
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=felipealvessi" alt = "felipealvessi" /> </p>
 
@@ -19,6 +17,8 @@
 - 📫 How to reach me **felipealvesinfor@gmail.com**
 
 - ⚡ Fun fact ** Passionate about learning **
+
+- 💻 Future **Front-end Developer**
 
 <p align="left"> <h3 align="left">Connect with me: </h3>
  <br /><a href="https://codepen.io/felipealvessi" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="felipealvessi" height="30"width="40"/> </a>  <a href="https://linkedin.com/in/felipealvessi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipealvessi" height="30" largura ="40"/> </a>
