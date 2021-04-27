@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **Passionate about learning**
 
-- 💻 Future **Front-end Developer**
+- 💻 Future **Full Stack Developer**
 
 <p align="left"> <h3 align="left">Connect with me: </h3>
  <br /><a href="https://codepen.io/felipealvessi" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="felipealvessi" height="30"width="40"/> </a>  <a href="https://linkedin.com/in/felipealvessi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipealvessi" height="30" largura ="40"/> </a>
