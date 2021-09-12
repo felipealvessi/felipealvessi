@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Devs do Futuro](https://devsdofuturo.com.br)
 
-- 🌱 I’m currently learning **Gatsby, GraphQL, TypeScript**
+- 🌱 I’m currently learning **Next.js, GraphQL, TypeScript, Strapi**
 
 - 🤝 I’m looking for help with [Devs do Futuro](https://devsdofuturo.com.br)
 
