@@ -21,7 +21,7 @@
 - 💻 Future **Full Stack Developer**
 <br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
+## :iphone: &nbsp;Social Links
 
 
 
@@ -29,6 +29,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealvessi/)](https://www.linkedin.com/in/felipealvessi/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://felipealvessi.medium.com/)](https://medium.com/@felipealvessi)
 [![Twitch Badge](https://img.shields.io/twitch/status/felipealvessi?style=for-the-badge&logo=twitch&logoColor=purpe&link=https://www.twitch.tv/felipealvessi/)](https://www.twitch.tv/felipealvessi)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://www.felipealvessi.com.br/)](https://www.felipealvessi.com.br/)
 
 
 <br>
