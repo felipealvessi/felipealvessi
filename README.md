@@ -9,7 +9,7 @@
 <h3 align = "left"> Applications Support Analyst 💻 </h3>
 
                                       
-- 🔭 I’m currently working on [Pipefy](https://pipefy.com)
+- 🔭 I’m currently working at [Pipefy](https://pipefy.com)
 
 - 💻 I’m currently learning **[Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [Strapi](https://strapi.io/)**
 
