@@ -23,17 +23,13 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/felipealvessi" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/felipealvessi)](https://www.instagram.com/felipealvessi)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealvessi/)](https://www.linkedin.com/in/felipealvessi/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://felipealvessi.medium.com/)](https://medium.com/@felipealvessi)
+[![Twitch Badge](https://img.shields.io/twitch/status/felipealvessi?style=for-the-badge&logo=twitch&logoColor=purpe&link=https://www.twitch.tv/felipealvessi/)](https://www.twitch.tv/felipealvessi)
+
 
 <br>
 
