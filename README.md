@@ -1,9 +1,13 @@
-<h1 align = "center"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves </h1>
-<h3 align = "center"> Applications Support Analyst 💻 </h3>
+<!-- <h1 align = "center"> Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves </h1>
 
 
-<p align = "left" > <img src = "https://komarev.com/ghpvc/?username=felipealvessi" alt = "felipealvessi" /> </p>
+ -->
+<img align="right" height="1rem" src="https://i.ibb.co/25v4t9G/boneco-piscando.gif"/><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
 
+<h3 align = "left"> Applications Support Analyst 💻 </h3>
+
+                                      
 - 🔭 I’m currently working on [Pipefy](https://pipefy.com)
 
 - 🌱 I’m currently learning **[Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [Strapi](https://strapi.io/)**
