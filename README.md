@@ -11,7 +11,7 @@
                                       
 - 🔭 I’m currently working on [Pipefy](https://pipefy.com)
 
-- 🌱 I’m currently learning **[Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [Strapi](https://strapi.io/)**
+- 💻 I’m currently learning **[Next.js](https://nextjs.org/), [GraphQL](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [Strapi](https://strapi.io/)**
 
 - 🤝 I’m looking for help with [Devs do Futuro](https://devsdofuturo.com.br)
 
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Passionate about learning**
 
-- 💻 Future **Full Stack Developer**
+- 🔥 Future **Full Stack Developer**
 <br>
 
 ## :iphone: &nbsp;Social Links
