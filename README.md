@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Devs do Futuro](https://devsdofuturo.com.br)
 
-- 📝 I write information regularly on [Devs do Futuro](https://www.linkedin.com/company/devsdofuturo)
+- 📝 I write information regularly on [Devs do Futuro](https://www.instagram/devsdofuturo)
 
 - 💬 Ask me about **Technology and the Future Devs Project**
 
