@@ -19,8 +19,7 @@
 - ⚡ Fun fact **Passionate about learning**
 
 - 💻 Future **Full Stack Developer**
-
-<br><br>
+<br>
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
@@ -36,6 +35,8 @@
 </a>
 </p>
 
+<br>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -47,7 +48,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br><br>
+<br>
 
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -57,4 +58,4 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvessi&layout=compact&theme=vision-friendly-dark" alt="felipealvessi's most languages"/>
 </p>
 
-<br><br>
+<br>
