@@ -3,7 +3,7 @@
 
  -->
 <img align="right" height="1rem" src="https://i.ibb.co/25v4t9G/boneco-piscando.gif"/><h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipelavessi&color=yellow" alt="Profile views" /> </p>
 
 <h3 align = "left"> Applications Support Analyst 💻 </h3>
 
