@@ -4,7 +4,7 @@
 
 <p align = "left" > <img src = "https://komarev.com/ghpvc/?username=felipealvessi" alt = "felipealvessi" /> </p>
 
-- 🔭 I’m currently working on [Devs do Futuro](https://devsdofuturo.com.br)
+- 🔭 I’m currently working on [Pipefy](https://pipefy.com)
 
 - 🌱 I’m currently learning **Next.js, GraphQL, TypeScript, Strapi**
 
@@ -20,20 +20,14 @@
 
 - 💻 Future **Full Stack Developer**
 
-<br><br>
+<p align="left"> <h3 align="left">Connect with me: </h3>
+ <br /><a href="https://codepen.io/felipealvessi" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="felipealvessi" height="30"width="40"/> </a>  <a href="https://linkedin.com/in/felipealvessi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="felipealvessi" height="30" largura ="40"/> </a>
+<a href="https://stackoverflow.com/users/11098847/felipe-alves" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="felipealvessi" height="30" width="40"/></a>
+<a href ="https://fb.com/felipealvessi" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="felipealvessi" height="30" largura="40"/> </a>
+<a href="https://instagram.com/felipealvessi" target="blank"> <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="felipealvessi" height="30" width="40"/> </a>
+<a href="https://medium.com/@felipealvessi" target="blank"> <img align="center" src ="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@felipealvessi" height="30" width="40"/> </a>
+</p>
 
-## 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-
-<br><br>
 
 
  <br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvessi&layout=compact" alt="felipealvessi"/>
