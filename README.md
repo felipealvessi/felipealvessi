@@ -22,6 +22,20 @@
 
 <br><br>
 
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://codepen.io/felipealvessi" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://linkedin.com/in/maykbrito" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://instagram.com/maykbrito" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-felipealvessi-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -36,7 +50,11 @@
 <br><br>
 
 
- <br /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvessi&layout=compact" alt="felipealvessi"/>
+## ⚙️ &nbsp;GitHub Analytics
 
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipealvessi&show_icons=true&theme=vision-friendly-dark" alt="felipealvessi's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvessi&layout=compact&theme=vision-friendly-dark" alt="felipealvessi's most languages"/>
+</p>
 
- <p> &nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=felipealvessi&show_icons=true" alt="felipealvessi"/></p>
+<br><br>
