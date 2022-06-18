@@ -1,6 +1,6 @@
 <img align="right" height="300rem" src="https://i.postimg.cc/ZK9LddXf/boneco-piscando.gif"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Alves </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=felipelavessi&color=yellow" alt="Profile views" /> </p>
+<h1 align="left">Hi, I'm Felipe Alves </h1>
+<p align="left"> <img  src="https://komarev.com/ghpvc/?username=felipelavessi&color=yellow" alt="Profile views" /> </p>
 
 
 
